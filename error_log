@@ -1,0 +1,39 @@
+[04-Sep-2010 18:59:29] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/webproxy/index.php on line 28
+[04-Sep-2010 18:59:29] PHP Warning:  Invalid argument supplied for foreach() in /home2/anysport/public_html/webproxy/index.php on line 28
+[04-Sep-2010 18:59:29] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/webproxy/index.php on line 100
+[04-Sep-2010 19:00:26] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/webproxy/index.php on line 28
+[04-Sep-2010 19:00:26] PHP Warning:  Invalid argument supplied for foreach() in /home2/anysport/public_html/webproxy/index.php on line 28
+[04-Sep-2010 19:00:26] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/webproxy/index.php on line 100
+[04-Sep-2010 19:08:46] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/webproxy/index.php on line 28
+[04-Sep-2010 19:08:46] PHP Warning:  Invalid argument supplied for foreach() in /home2/anysport/public_html/webproxy/index.php on line 28
+[04-Sep-2010 19:08:46] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/webproxy/index.php on line 100
+[04-Sep-2010 19:09:25] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/webproxy/index.php on line 28
+[04-Sep-2010 19:09:25] PHP Warning:  Invalid argument supplied for foreach() in /home2/anysport/public_html/webproxy/index.php on line 28
+[04-Sep-2010 19:09:25] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/webproxy/index.php on line 100
+[04-Sep-2010 19:09:49] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/webproxy/index.php on line 28
+[04-Sep-2010 19:09:49] PHP Warning:  Invalid argument supplied for foreach() in /home2/anysport/public_html/webproxy/index.php on line 28
+[04-Sep-2010 19:09:49] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/webproxy/index.php on line 100
+[04-Sep-2010 19:09:59] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/webproxy/index.php on line 28
+[04-Sep-2010 19:09:59] PHP Warning:  Invalid argument supplied for foreach() in /home2/anysport/public_html/webproxy/index.php on line 28
+[04-Sep-2010 19:09:59] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/webproxy/index.php on line 100
+[04-Sep-2010 19:12:59] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/webproxy/index.php on line 28
+[04-Sep-2010 19:12:59] PHP Warning:  Invalid argument supplied for foreach() in /home2/anysport/public_html/webproxy/index.php on line 28
+[04-Sep-2010 19:12:59] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/webproxy/index.php on line 100
+[04-Sep-2010 19:20:52] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/webproxy/index.php on line 28
+[04-Sep-2010 19:20:52] PHP Warning:  Invalid argument supplied for foreach() in /home2/anysport/public_html/webproxy/index.php on line 28
+[04-Sep-2010 19:20:52] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/webproxy/index.php on line 100
+[14-Feb-2014 07:25:47] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/socialstrainer/pve/index.php on line 28
+[14-Feb-2014 07:25:47] PHP Warning:  Invalid argument supplied for foreach() in /home2/anysport/public_html/socialstrainer/pve/index.php on line 28
+[14-Feb-2014 07:25:47] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/socialstrainer/pve/index.php on line 100
+[14-Feb-2014 07:28:20] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/socialstrainer/pve/index.php on line 28
+[14-Feb-2014 07:28:20] PHP Warning:  Invalid argument supplied for foreach() in /home2/anysport/public_html/socialstrainer/pve/index.php on line 28
+[14-Feb-2014 07:28:20] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/socialstrainer/pve/index.php on line 100
+[14-Feb-2014 07:28:24] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/socialstrainer/pve/index.php on line 28
+[14-Feb-2014 07:28:24] PHP Warning:  Invalid argument supplied for foreach() in /home2/anysport/public_html/socialstrainer/pve/index.php on line 28
+[14-Feb-2014 07:28:24] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/socialstrainer/pve/index.php on line 100
+[14-Feb-2014 07:28:39] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/socialstrainer/pve/index.php on line 28
+[14-Feb-2014 07:28:39] PHP Warning:  Invalid argument supplied for foreach() in /home2/anysport/public_html/socialstrainer/pve/index.php on line 28
+[14-Feb-2014 07:28:39] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/socialstrainer/pve/index.php on line 100
+[14-Feb-2014 07:28:48] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/socialstrainer/pve/index.php on line 28
+[14-Feb-2014 07:28:48] PHP Warning:  Invalid argument supplied for foreach() in /home2/anysport/public_html/socialstrainer/pve/index.php on line 28
+[14-Feb-2014 07:28:48] PHP Notice:  Undefined variable: CONFIG in /home2/anysport/public_html/socialstrainer/pve/index.php on line 100
